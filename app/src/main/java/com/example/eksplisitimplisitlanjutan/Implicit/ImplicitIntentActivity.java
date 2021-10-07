@@ -1,4 +1,4 @@
-git copackage com.example.eksplisitimplisitlanjutan.Implicit;
+package com.example.eksplisitimplisitlanjutan.Implicit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
